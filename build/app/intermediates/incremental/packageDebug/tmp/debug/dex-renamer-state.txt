@@ -1,0 +1,4 @@
+#Thu Feb 21 16:32:41 EET 2019
+base.0=/home/amir/development/firstapp/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
